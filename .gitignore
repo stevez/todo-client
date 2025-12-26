@@ -31,3 +31,5 @@ yalc.lock
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+.claude/
+coverage/

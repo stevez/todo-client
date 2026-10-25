@@ -33,3 +33,6 @@ yalc.lock
 /playwright/.auth/
 .claude/
 coverage/
+
+# desktop app (web-terrarium)
+/dist-desktop/

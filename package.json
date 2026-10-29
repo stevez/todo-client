@@ -29,7 +29,7 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4",
-    "web-terrarium": "^0.2.0"
+    "web-terrarium": "^0.3.0"
   },
   "browserslist": [
     "chrome 111",
